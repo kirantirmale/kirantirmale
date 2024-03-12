@@ -1,4 +1,5 @@
 
+
 html {
   font-size: 10px;
 }
@@ -3325,7 +3326,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:1200px) {
   .contact-email {
-    font-size: 7rem;
+    font-size: 5rem;
   }
 
   .contact-infos {
@@ -3336,7 +3337,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:1024px) {
   .contact-email {
-    font-size: 7.2rem;
+    font-size: 5.2rem;
   }
 
   .contact-infos {
@@ -3355,7 +3356,7 @@ input::-moz-focus-inner {
   }
 
   .contact-email {
-    font-size: 6vw;
+    font-size: 4vw;
   }
 
   .contact-infos {
@@ -3379,7 +3380,9 @@ input::-moz-focus-inner {
   .contact-infos {
     font-size: 3rem;
   }
-
+ .contact-email {
+    font-size: 4vw;
+  }
 }
 
 
