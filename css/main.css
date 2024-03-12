@@ -3310,7 +3310,7 @@ input::-moz-focus-inner {
 * ------------------------------------------------------------------- */
 @media screen and (max-width:1300px) {
   .contact-email {
-    font-size: 10rem;
+    font-size: 9rem;
   }
 
   .contact-infos {
@@ -3325,7 +3325,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:1200px) {
   .contact-email {
-    font-size: 9rem;
+    font-size: 7rem;
   }
 
   .contact-infos {
@@ -3355,7 +3355,7 @@ input::-moz-focus-inner {
   }
 
   .contact-email {
-    font-size: 9vw;
+    font-size: 6vw;
   }
 
   .contact-infos {
