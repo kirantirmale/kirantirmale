@@ -3351,7 +3351,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:800px) {
   .s-contact {
-    padding-top: 16rem;
+    padding-top: 14rem;
   }
 
   .contact-email {
