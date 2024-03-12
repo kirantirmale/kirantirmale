@@ -3356,7 +3356,7 @@ input::-moz-focus-inner {
   }
 
   .contact-email {
-    font-size: 4vw;
+    font-size: 8vw;
   }
 
   .contact-infos {
@@ -3381,7 +3381,7 @@ input::-moz-focus-inner {
     font-size: 3rem;
   }
  .contact-email {
-    font-size: 4vw;
+    font-size: 8vw;
   }
 }
 
